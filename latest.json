@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "notes": "Deleting an invoice now updates the earnings totals immediately. Added in-app update notifications.",
+  "url": "https://rover-tech-app.github.io/download"
+}
