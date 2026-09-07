@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Deleting an invoice now updates the earnings totals immediately. Added in-app update notifications.",
+  "version": "1.0.2",
+  "notes": "Dark mode toggle (top-right), parts-profit shown in Business analytics, and the invoice-delete earnings fix.",
   "url": "https://rover-tech-app.github.io/download"
 }
