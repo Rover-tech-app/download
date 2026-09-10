@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "Dark mode toggle (top-right), parts-profit shown in Business analytics, and the invoice-delete earnings fix.",
+  "version": "1.0.3",
+  "notes": "Windows desktop + Start-menu shortcut, full bookkeeping (expenses, bank feed, profit-per-job, quarterly taxes), and security fixes.",
   "url": "https://rover-tech-app.github.io/download"
 }
