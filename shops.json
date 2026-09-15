@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "about": "Public list of Rover Tech shops for the shared customer and technician apps: shop code -> that shop's backend address and public (anon) key. Anon keys are public by design (they ship inside every app); each shop's data is protected by its own row-level security. Add one entry per shop when provisioning (docs/PROVISION_NEW_SHOP.md).",
+  "shops": {
+    "YODER": {
+      "supabaseUrl": "https://idcgjuqerywseuizbnor.supabase.co",
+      "anonKey": "sb_publishable_DcFzAqJZ9Du_o11PQ0y8-w_YIUKhf-a"
+    }
+  }
+}
