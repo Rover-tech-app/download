@@ -5,6 +5,10 @@
     "YODER": {
       "supabaseUrl": "https://idcgjuqerywseuizbnor.supabase.co",
       "anonKey": "sb_publishable_DcFzAqJZ9Du_o11PQ0y8-w_YIUKhf-a"
+    },
+    "SUPER-CARIO-BROS-LLC": {
+      "supabaseUrl": "https://wpjuaqxyxtpmnqbgynvk.supabase.co",
+      "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndwanVhcXh5eHRwbW5xYmd5bnZrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc1ODE3OTksImV4cCI6MjEwMzE1Nzc5OX0.qLnW9z6jQ3KPW-NxxDRCgNPzSRS5HxkeRWUEEgIhM68"
     }
   }
 }
