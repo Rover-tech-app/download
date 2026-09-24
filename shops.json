@@ -5,6 +5,10 @@
     "YODER": {
       "supabaseUrl": "https://idcgjuqerywseuizbnor.supabase.co",
       "anonKey": "sb_publishable_DcFzAqJZ9Du_o11PQ0y8-w_YIUKhf-a"
+    },
+    "TESTSHOP": {
+      "supabaseUrl": "https://ucqdueojauodtopzpdfw.supabase.co",
+      "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVjcWR1ZW9qYXVvZHRvcHpwZGZ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAxNjkyMzIsImV4cCI6MjEwNTc0NTIzMn0.vaLDIkUz84DgVEWYjPW7FKuZPvGqUr94G-Qq6F_khSI"
     }
   }
 }
